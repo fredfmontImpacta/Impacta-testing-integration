@@ -35,7 +35,6 @@
 /testing_java/target/test-classes/*
 /testing_java/testing_java.iml
 /testing_java/Intgration.iml
-target/
 
 ## PROJECT TESTING RUBY ##
 /testing_ruby/Gemfile.lock
